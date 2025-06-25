@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Moien AlQenneh - Senior Full-Stack Developer" width="100%" />
+</p>
+
 # 👋 Hi, I'm Moien AlQenneh
 
 🚀 Senior Software Engineer | Java, Python, Node.js, C#, SQL  
