@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SEDBAnner.png" alt="Moien AlQenneh - Senior Full-Stack Developer" width="100%" />
+  <img src="githubbanner.png" alt="Moien AlQenneh - Senior Full-Stack Developer" width="100%" />
 </p>
 
 # 👋 Hi, I'm Moien AlQenneh
