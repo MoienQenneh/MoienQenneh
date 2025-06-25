@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Moien AlQenneh
 
-🚀 Senior Software Engineer | Java, Python, Node.js, C#, SQL  
+🚀 Senior Full-Stack Developer | Java, Python, Node.js, C#, SQL  
 🏗️ I build scalable APIs, microservices, and cloud-native systems  
 🌍 Passionate about clean code, performance, and architecture  
 
