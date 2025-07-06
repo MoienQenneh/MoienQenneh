@@ -2,9 +2,7 @@
   <img src="githubbanner.png" alt="Moien AlQenneh - Senior Full-Stack Developer" width="100%" />
 </p>
 
-# 👋 Hi, I'm Moien AlQenneh
-
-🚀 Senior Full-Stack Developer | Java, Python, Node.js, C#, SQL  
+# 👋 Hi, I'm Moien AlQenneh 
 🏗️ I build scalable APIs, microservices, and cloud-native systems  
 🌍 Passionate about clean code, performance, and architecture  
 
@@ -12,7 +10,7 @@
 - **Languages:** Java, Python, JavaScript, C#, SQL
 - **Frameworks:** Spring Boot, Django, FastAPI, Node.js, Express, .NET
 - **Frontend:** React, Next.js, Tailwind CSS
-- **Databases:** PostgreSQL, MongoDB, Redis, MySQL
+- **Databases:** PostgreSQL, MongoDB, Redis, MySQL 
 - **DevOps:** Docker, Kubernetes, AWS, CI/CD
 
 ### 📈 GitHub Stats
