@@ -29,3 +29,7 @@ I am a passionate and results-driven software engineer with deep expertise in **
 ### 🔗 Connect With Me
 - 📧 moienalqenneh@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/moien-qenneh-8862a938/)
+  
+  ---
+
+*Always learning. Always building. Always optimizing.*
