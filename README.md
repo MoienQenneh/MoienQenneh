@@ -11,6 +11,7 @@ I am a passionate and results-driven software engineer with deep expertise in **
 ## 💡 What I Do
 
 - 🔧 **.NET Core Development**: Building robust backend services, RESTful APIs, and enterprise applications with a focus on performance, clean architecture, and scalability.
+- ☕ **Java Engineering**: Backend development with Spring Boot and modern Java frameworks.
 - 🧠 **Python Engineering**: Leveraging Python for data processing, automation, and fast API development using FastAPI and Django.
 - 🌐 **JavaScript Expertise**: Creating interactive frontends and integrating full-stack solutions with modern JavaScript frameworks.
 - ☁️ **Cloud & DevOps**: Deploying applications to **Azure** and **AWS**, containerizing with **Docker**, and automating workflows with **CI/CD pipelines**.
@@ -18,10 +19,10 @@ I am a passionate and results-driven software engineer with deep expertise in **
 
 ## 🔨 Tech Stack
 
-- **Languages**: C#, Python, JavaScript, SQL
-- **Frameworks**: .NET Core, ASP.NET, Django, FastAPI, React, Angular
-- **Databases**: MS SQL Server, PostgreSQL, MongoDB
-- **Tools**: Git, Docker, Azure DevOps, Postman, Power BI
+- **Languages**: C#, Java, Python, JavaScript, SQL
+- **Frameworks**: .NET Core, ASP.NET, Spring Boot, Django, FastAPI, React, Angular
+- **Databases**: SQL Server, PostgreSQL, MongoDB
+- **Tools**: Git, Docker, Azure DevOps, Jenkins, Postman, Power BI
 
 ### 📈 GitHub Stats
 ![Moien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoienQenneh&show_icons=true&theme=default)
