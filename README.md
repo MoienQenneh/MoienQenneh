@@ -37,9 +37,6 @@ Senior Full-Stack Developer with 9+ years of experience building robust enterpri
 - **Cloud-Native Apps** using Istio, GitHub Actions, ArgoCD  
 - **Next.js + .NET Full Stack SaaS** with JWT Auth & Docker Compose  
 
-> ⚙️ Built via hands-on Udemy projects — Real-World Systems with Advanced Architecture
-
-
 ### 📈 GitHub Stats
 ![Moien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoienQenneh&show_icons=true&theme=default)
 
