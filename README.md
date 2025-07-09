@@ -28,7 +28,7 @@ Senior Full-Stack Developer with 9+ years of experience building robust enterpri
 - **DB:** SQL Server, PostgreSQL, MongoDB, Redis  
 - **Tools:** Swagger, Postman, Power BI, NUnit, Moq, Git
 
-### 🚀 Project-Based Experience Highlights
+## 🚀 Project-Based Experience Highlights
 
 - **Microservices Architecture in .NET Core** with Ocelot, RabbitMQ, Docker  
 - **CQRS + DDD** Modulith with Outbox Pattern  
