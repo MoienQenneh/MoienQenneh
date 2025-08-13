@@ -23,7 +23,9 @@ Senior Full-Stack Developer with 9+ years of experience building robust enterpri
 
 - **Backend:** C#(.NET Core), Java, Python (Django, FastAPI), Node.js  
 - **Frontend:** React, Next.js, Angular, JavaScript (ES6+), TypeScript, Three.js, GSAP
-- **Mobile:** Flutter, Kotlin (Jetpack Compose), API integration  
+- **Mobile:** Flutter, Kotlin (Jetpack Compose), API integration
+- **Databases:** SQL Server, PostgreSQL, MongoDB, SQLite.
+- **Messaging & Caching:** RabbitMQ, Kafka, Redis Pub/Sub. 
 - **DevOps & Cloud:** Azure, AWS, Docker, Kubernetes, Azure DevOps, GitHub Actions  
 
 ## 🚀 Project-Based Experience Highlights
