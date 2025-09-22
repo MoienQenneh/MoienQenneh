@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="SeniorFullStack.png" alt="Moien AlQenneh - Senior Full-Stack Developer" width="100%" />
-</p>
+<p align="center"></p>
 
 # 👋 Hi, I'm Mo'ien AlQenneh
 
