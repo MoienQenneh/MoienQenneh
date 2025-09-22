@@ -3,11 +3,13 @@
 # 👋 Hi, I'm Moien AlQenneh
 
 🎯 **Senior Software Architect/Engineer | Python/Java/C++/C#/JS/Rust**
+
 With over 10 years of experience, I'm passionate about writing clean, maintainable code and using data to drive better decision-making. Whether it’s building an app from scratch, optimizing a system, or extracting insights from large datasets, I bring a thoughtful, detail-oriented approach to every project.
 
 I’ve worked with leading technologies, APIs, and frameworks, ensuring every project is optimized for speed, scalability, and user satisfaction.
 
 ## 💡 What I Do
+
 📱 Cross-platform mobile apps with seamless UI/UX.
 ⚡ High-performance backends built for scale and security.
 🤖 AI-powered applications and chatbot integrations.
@@ -16,6 +18,7 @@ I’ve worked with leading technologies, APIs, and frameworks, ensuring every pr
 ☁ Cloud deployment & DevOps on AWS, Azure, and GCP.
 
 ## 🔨 Tech Stack
+
 ✅Programming Languages: JavaScript, Python, C#, Java, C/C++,Rust.
 ✅ Mobile Development: Kotlin, Flutter.
 ✅ Backend Development: .NET, Node.js, FastAPI.
