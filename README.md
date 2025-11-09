@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Moien AlQenneh
 
-🎯 **Senior Software Architect/Engineer | Python/Java/C++/C#/JS/Rust**
+🎯 **Full Stack Developer | Mobile App Developer | Data Science**
 
 With over 10 years of experience, I'm passionate about writing clean, maintainable code and using data to drive better decision-making. Whether it’s building an app from scratch, optimizing a system, or extracting insights from large datasets, I bring a thoughtful, detail-oriented approach to every project.
 
@@ -19,7 +19,7 @@ I’ve worked with leading technologies, APIs, and frameworks, ensuring every pr
 
 ## 🔨 Tech Stack
 
-✅Programming Languages: JavaScript, Python, C#, Java, C/C++,Rust.
+✅Programming Languages: JavaScript, Python, C#, Java.
 ✅ Mobile Development: Kotlin, Flutter.
 ✅ Backend Development: .NET, Node.js, FastAPI.
 ✅ Frontend Development: React, Next.js, Three.js, GSAP, Vue.js.
