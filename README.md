@@ -1,37 +1,97 @@
-<p align="center"></p>
+# 👋 Hi, I’m Mo’ien AlQenneh
 
-# 👋 Hi, I'm Moien AlQenneh
+**Senior / Staff Software Engineer – Cloud & AI Platforms**
 
-🎯 **Full Stack Developer | Mobile App Developer | Data Science**
+I’m a hands-on software engineer with 10+ years of experience designing, building, and scaling
+**cloud-native and AI-enabled systems** for enterprise and business-critical platforms.
 
-With over 10 years of experience, I'm passionate about writing clean, maintainable code and using data to drive better decision-making. Whether it’s building an app from scratch, optimizing a system, or extracting insights from large datasets, I bring a thoughtful, detail-oriented approach to every project.
+I specialize in **backend and platform engineering**, focusing on **system design, distributed systems,
+and cloud architecture**. I enjoy working on complex problems that require deep technical thinking,
+clean architecture, and long-term scalability.
 
-I’ve worked with leading technologies, APIs, and frameworks, ensuring every project is optimized for speed, scalability, and user satisfaction.
+---
 
-## 💡 What I Do
+## 🧠 What I Do
 
-📱 Cross-platform mobile apps with seamless UI/UX.
-⚡ High-performance backends built for scale and security.
-🤖 AI-powered applications and chatbot integrations.
-💳 Secure payment gateways with Stripe, Braintree, and PayPal.
-📡 Real-time communications with Twilio, Agora, WebSockets.
-☁ Cloud deployment & DevOps on AWS, Azure, and GCP.
+- Design and evolve **cloud-native architectures** on **Azure & AWS**
+- Build **scalable backend systems** using **.NET, Node.js, and FastAPI**
+- Architect **distributed systems & microservices**
+- Own **SQL and data-layer performance** for high-traffic systems
+- Integrate **AI-enabled capabilities** into production platforms
+- Drive **architecture decisions**, code reviews, and engineering best practices
+- Mentor engineers and raise overall system quality
 
-## 🔨 Tech Stack
+---
 
-✅Programming Languages: JavaScript, Python, C#, Java.
-✅ Mobile Development: Kotlin, Flutter.
-✅ Backend Development: .NET, Node.js, FastAPI.
-✅ Frontend Development: React, Next.js, Three.js, GSAP, Vue.js.
-✅Concepts: OOA/OOD (UML, Design Patterns, Refactoring), Multithreading/Multiprocessing, data analysis and machine learning development, strong mathematics and algorithmic knowledge.
+## 🏗️ Core Technical Expertise
 
-### 📈 GitHub Stats
-![Moien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoienQenneh&show_icons=true&theme=default)
+### Architecture & Systems
+- System Design & Software Architecture
+- Distributed Systems & Microservices
+- Event-Driven Architecture (Kafka, RabbitMQ)
+- API Design (REST, GraphQL)
 
-### 🔗 Connect With Me
+### Cloud & DevOps
+- Cloud Architecture: **Azure, AWS**
+- Containerization: Docker, Kubernetes
+- CI/CD: Azure DevOps, GitHub Actions
+- Observability, reliability, and cost optimization
+
+### Backend & Data
+- **.NET / C#**, Node.js, FastAPI (Python)
+- SQL Server, Redis, MongoDB
+- Power BI / MSBI (SSIS, SSAS, SSRS)
+
+### AI & Automation
+- AI-enabled APIs and backend services
+- LLM & ML integration into production systems
+- AI-assisted development, testing, and analytics workflows
+
+---
+
+## 🚀 Current Focus
+
+- Cloud & platform engineering at scale  
+- AI-enabled backend systems  
+- Production-grade system design  
+- Staff / Principal-level engineering impact  
+
+---
+
+## 📂 Featured Projects (Coming / In Progress)
+
+- **Cloud-Native AI Platform**
+  - Microservices architecture
+  - Kubernetes-based deployment
+  - AI inference service using FastAPI
+  - Azure / AWS infrastructure
+  - Full architecture documentation
+
+- **Distributed Backend Platform**
+  - Event-driven design
+  - High-performance SQL optimization
+  - Observability and fault tolerance
+
+---
+
+## 📄 Architecture Mindset
+
+I approach problems using:
+> **Requirements → Constraints → Options → Trade-offs → Decision**
+
+I focus on building systems that are:
+- Scalable
+- Reliable
+- Maintainable
+- Cost-aware
+- Production-ready
+
+---
+
+## 🤝 Let’s Connect
+
 - 📧 moienalqenneh@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/moien-qenneh-8862a938/)
-  
-  ---
 
-*Always learning. Always building. Always optimizing.*
+I’m always interested in discussing **cloud architecture, distributed systems, AI platforms,
+and Staff / Principal engineering challenges**.
