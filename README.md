@@ -2,89 +2,76 @@
 
 **Senior / Staff Software Engineer – Cloud & AI Platforms**
 
-I’m a hands-on software engineer with 10+ years of experience designing, building, and scaling
-**cloud-native and AI-enabled systems** for enterprise and business-critical platforms.
+I design and build **scalable, maintainable, production-ready systems** using modern backend and frontend technologies.
 
-I specialize in **backend and platform engineering**, focusing on **system design, distributed systems,
-and cloud architecture**. I enjoy working on complex problems that require deep technical thinking,
-clean architecture, and long-term scalability.
+I focus on **clean architecture, performance, and long-term stability**, not just making things “work”.
 
 ---
 
 ## 🧠 What I Do
 
-- Design and evolve **cloud-native architectures** on **Azure & AWS**
-- Build **scalable backend systems** using **.NET, Node.js, and FastAPI**
-- Architect **distributed systems & microservices**
-- Own **SQL and data-layer performance** for high-traffic systems
-- Integrate **AI-enabled capabilities** into production platforms
-- Drive **architecture decisions**, code reviews, and engineering best practices
-- Mentor engineers and raise overall system quality
+- Design end-to-end web systems
+- Build scalable backends with **.NET & Node.js**
+- Develop modern frontends with **Angular & React**
+- Architect API-first platforms
+- Refactor and modernize legacy systems
+- Optimize performance and reliability
 
 ---
 
-## 🏗️ Core Technical Expertise
+## 🛠 Tech Stack
 
-### Architecture & Systems
-- System Design & Software Architecture
-- Distributed Systems & Microservices
-- Event-Driven Architecture (Kafka, RabbitMQ)
-- API Design (REST, GraphQL)
+### Backend
+- ASP.NET Core / .NET
+- Node.js (Express, NestJS)
+- Python (FastAPI, Flask)
+- C++
 
-### Cloud & DevOps
-- Cloud Architecture: **Azure, AWS**
-- Containerization: Docker, Kubernetes
-- CI/CD: Azure DevOps, GitHub Actions
-- Observability, reliability, and cost optimization
+### Frontend
+- Angular
+- React
+- TypeScript / JavaScript
 
-### Backend & Data
-- **.NET / C#**, Node.js, FastAPI (Python)
-- SQL Server, Redis, MongoDB
-- Power BI / MSBI (SSIS, SSAS, SSRS)
+### Databases
+- SQL Server, PostgreSQL, MySQL
+- MongoDB
 
-### AI & Automation
-- AI-enabled APIs and backend services
-- LLM & ML integration into production systems
-- AI-assisted development, testing, and analytics workflows
-
----
-
-## 🚀 Current Focus
-
-- Cloud & platform engineering at scale  
-- AI-enabled backend systems  
-- Production-grade system design  
-- Staff / Principal-level engineering impact  
+### Practices
+- Clean Architecture
+- SOLID Principles
+- REST APIs
+- Authentication & Authorization
+- Docker, Git
 
 ---
 
-## 📂 Featured Projects (Coming / In Progress)
+## 📌 Featured Projects
 
-- **Cloud-Native AI Platform**
-  - Microservices architecture
-  - Kubernetes-based deployment
-  - AI inference service using FastAPI
-  - Azure / AWS infrastructure
-  - Full architecture documentation
+### 🔹 Enterprise Web Platform (.NET + Angular)
+- Modular architecture using Clean Architecture
+- Secure authentication (JWT)
+- Scalable REST APIs
+- Optimized database queries
 
-- **Distributed Backend Platform**
-  - Event-driven design
-  - High-performance SQL optimization
-  - Observability and fault tolerance
+### 🔹 MERN Stack SaaS Application
+- React frontend with reusable components
+- Node.js API with MongoDB
+- Role-based access control
+- Production-ready deployment setup
+
+### 🔹 Python Backend Services
+- FastAPI-based microservices
+- High-performance async APIs
+- Data processing and automation
 
 ---
 
-## 📄 Architecture Mindset
+## 🤝 How I Work
 
-I approach problems using:
-> **Requirements → Constraints → Options → Trade-offs → Decision**
-
-I focus on building systems that are:
-- Scalable
-- Reliable
-- Maintainable
-- Cost-aware
-- Production-ready
+- I understand **business goals before writing code**
+- I propose architecture before implementation
+- I write code other developers can maintain
+- I communicate clearly and proactively
 
 ---
 
