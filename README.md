@@ -9,6 +9,8 @@ I specialize in **backend and platform engineering**, focusing on **system desig
 and cloud architecture**. I enjoy working on complex problems that require deep technical thinking,
 clean architecture, and long-term scalability.
 
+I love working with blockchain technologies, Web3 ecosystems, and performance-oriented languages.
+
 ---
 
 ## 🧠 What I Do
@@ -38,9 +40,14 @@ clean architecture, and long-term scalability.
 - Observability, reliability, and cost optimization
 
 ### Backend & Data
-- **.NET / C#**, Node.js, FastAPI (Python)
+- **.NET / C#**, Node.js, FastAPI (Python), Rust
 - SQL Server, Redis, MongoDB
-- Power BI / MSBI (SSIS, SSAS, SSRS)
+
+### Blockchain & Smart Contracts
+- Solidity — writing secure smart contracts
+- Blockchain Development — building decentralized applications (dApps)
+- Web3.js / Ethers.js — interacting with Ethereum and other chains
+- Smart Contract Design & Testing — Hardhat, Truffle, Foundry  
 
 ### AI & Automation
 - AI-enabled APIs and backend services
