@@ -17,11 +17,12 @@ I love working with blockchain technologies, Web3 ecosystems, and performance-or
 
 - Design and evolve **cloud-native architectures** on **Azure & AWS**
 - Build **scalable backend systems** using **.NET, Node.js, and FastAPI**
-- Architect **distributed systems & microservices**
 - Own **SQL and data-layer performance** for high-traffic systems
-- Integrate **AI-enabled capabilities** into production platforms
-- Drive **architecture decisions**, code reviews, and engineering best practices
-- Mentor engineers and raise overall system quality
+- Design and integrate **blockchain solutions** (smart contracts, Web3 integrations, on-chain/off-chain architectures)
+- Develop and audit **smart contracts** using **Solidity**, with secure backend integration
+- Build **high-performance blockchain services** and infrastructure components in **Rust**
+- Drive **architecture decisions**, **code reviews** , and **engineering best practices**
+- Mentor engineers and raise overall **system quality, security, and scalability**
 
 ---
 
