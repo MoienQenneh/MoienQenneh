@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Mo’ien AlQenneh
+# 👋 Hi, I’m Moien AlQenneh
 
-**Senior / Staff Software Engineer – Cloud & AI Platforms**
+**Staff Solutions Architect | Full-Stack Expert | AI & Web3 Specialist**
 
 I’m a hands-on software engineer with 10+ years of experience designing, building, and scaling
 **cloud-native and AI-enabled systems** for enterprise and business-critical platforms.
@@ -9,7 +9,9 @@ I specialize in **backend and platform engineering**, focusing on **system desig
 and cloud architecture**. I enjoy working on complex problems that require deep technical thinking,
 clean architecture, and long-term scalability.
 
-I love working with blockchain technologies, Web3 ecosystems, and performance-oriented languages.
+I enjoy solving hard problems—whether it’s optimizing a Kubernetes cluster, architecting a decentralized finance platform, or integrating Large Language Models into enterprise workflows. My goal is always to bridge the gap between complex technology and real business value.
+
+Outside of tech, I am a Brazilian Jiu-Jitsu Player, where I apply the same principles of strategy and continuous improvement that I use in engineering.
 
 ---
 
