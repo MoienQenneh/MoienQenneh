@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Moien AlQenneh
 
-**Staff Solutions Architect | Full-Stack Expert | AI & Web3 Specialist**
+**Full-Stack Expert | AI & Web3 Specialist**
 
 I’m a hands-on software engineer with 10+ years of experience designing, building, and scaling
 **cloud-native and AI-enabled systems** for enterprise and business-critical platforms.
@@ -47,7 +47,7 @@ Outside of tech, I am a Brazilian Jiu-Jitsu Player, where I apply the same princ
 - SQL Server, Redis, MongoDB
 
 ### Blockchain & Smart Contracts
-- Solidity — writing secure smart contracts
+- Solana — writing secure smart contracts
 - Blockchain Development — building decentralized applications (dApps)
 - Web3.js / Ethers.js — interacting with Ethereum and other chains
 - Smart Contract Design & Testing — Hardhat, Truffle, Foundry  
