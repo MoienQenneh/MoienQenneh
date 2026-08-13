@@ -18,7 +18,7 @@ Outside of tech, I am a Brazilian Jiu-Jitsu Player, where I apply the same princ
 ## 🧠 What I Do
 
 - Design and evolve **cloud-native architectures** on **Azure & AWS**
-- Build **scalable backend systems** using **.NET, Node.js, and FastAPI**
+- Build **scalable backend systems** using **.NET, Django and FastAPI**
 - Own **SQL and data-layer performance** for high-traffic systems
 - Design and integrate **blockchain solutions** (smart contracts, Web3 integrations, on-chain/off-chain architectures)
 - Develop and audit **smart contracts** using **Solidity**, with secure backend integration
